@@ -1,2 +1,2 @@
 # Sentiment_classification
-Graduation thesis
+Graduation project
